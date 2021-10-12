@@ -15,3 +15,7 @@
     2.3 Color by County
   3. Make a GitHub based web page from the visualization
   https://umassdgithub.github.io/week-6-Activity/
+  
+## Solution
+    Solution.html
+    https://umassdgithub.github.io/week-6-Activity/Solution.html
