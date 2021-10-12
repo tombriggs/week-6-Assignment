@@ -18,4 +18,4 @@
   
 ## Solution
     Solution.html
-    https://umassdgithub.github.io/week-6-Activity/Solution.html
+    <a href="https://umassdgithub.github.io/week-6-Activity/Solution.html">View Here</a>
