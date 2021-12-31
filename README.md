@@ -23,8 +23,5 @@
 </ol>
 </li>
 </ol>
-<p></p>
-<h2 style="box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.5em; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; color: #24292f; font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; background-color: #ffffff;"><a id="user-content-objectives" class="anchor" aria-hidden="true" href="https://github.com/umassdgithub/week-6-Activity#objectives" style="box-sizing: border-box; color: var(--color-accent-fg); text-decoration-line: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1;"><img src="https://umassd.umassonline.net/bbcswebdav/pid-1309213-dt-content-rid-9540939_1/xid-9540939_1" alt="" width="521" height="289" style="border: 0px solid #000000;" /></a></h2>
-<p></p>
-<div data-ephox-embed-iri="https://github.com/umassdgithub/week-6-Activity" style="max-width: 650px; border: 1px solid #aaaaaa; box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 10px; overflow: hidden; margin-bottom: 1em;"><a href="https://github.com/umassdgithub/week-6-Activity" style="text-decoration: none; color: inherit;"> <img src="https://opengraph.githubassets.com/a8d01379a56c05c0225e116c1b2e7f926676a5e59a3965d49e25df1b0c9adb18/umassdgithub/week-6-Activity" style="max-width: 180px; max-height: 180px; margin-left: 2em; float: right;" height="90" width="180" /> </a> <a href="https://github.com/umassdgithub/week-6-Activity" style="text-decoration: none; color: inherit;"> <span style="font-size: 1.2em; display: block;">GitHub - umassdgithub/week-6-Activity</span> <span style="margin-top: 0.5em; display: block;">Contribute to umassdgithub/week-6-Activity development by creating an account on GitHub.</span> <span style="color: #999999; display: block; margin-top: 0.5em;">GitHub</span> </a></div>
-<p></p>
+
+
