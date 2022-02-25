@@ -5,6 +5,8 @@
 3. Working with topojson &amp; and geojson files
 4. Processing and filtering data
 5. Making static web page using GitHub server
+
+
 </code></pre>
 <div class="zeroclipboard-container position-absolute right-0 top-0" style="box-sizing: border-box; display: block; animation: 200ms ease 0s 1 normal both running fade-in; position: absolute; top: 0px; right: 0px;"><clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="1. Become familiar with different projection methods2. Become familiar with color-coding with different scales3. Working with topojson &amp; and geojson files4. Processing and filtering data5. Making static web page using GitHub server" role="button" style="box-sizing: border-box; position: relative; display: inline-block; font-size: 14px; font-weight: 500; line-height: 20px; white-space: nowrap; vertical-align: middle; cursor: pointer; user-select: none; border-width: 1px; border-style: solid; border-radius: 6px; appearance: none; color: var(--color-btn-text); background-color: var(--color-btn-bg); box-shadow: var(--color-btn-shadow),var(--color-btn-inset-shadow); transition: color 0.2s cubic-bezier(0.3, 0, 0.5, 1) 0s, background-color 0s ease 0s, border-color 0s ease 0s; padding: 0px; margin: 8px;" tabindex="0"></clipboard-copy></div>
 </div>
