@@ -15,9 +15,11 @@
 <li style="box-sizing: border-box;">Clone the repository</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Modify the data and make <strong>three new geospatial visualizations</strong> based on
 <ol style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; color: #24292f; font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; background-color: #ffffff; margin-bottom: 0px;">
-<li style="box-sizing: border-box; margin-top: 0.25em;">&nbsp;Population in 1980 (10 points)</li>
+<ol>
+  <li style="box-sizing: border-box; margin-top: 0.25em;">&nbsp;Population in 1980 (10 points)</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Population change between each available year (e.g 1980 and 1990) in each town (10/100 Points)</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Color by <strong>County (not by town)</strong> (the FIPS number of the towns from the same county is the same)( 30/100 points)</li>
+  </ol>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Add interaction (mouse enter/mouse leave) change color for each county--not the towns--. (20/100 points)</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Add a DIV element (HTLM) to the upper right corner of the page to show all data for each county when the mouse enters the county. (20/100 Points)&nbsp;</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Add Title of the Assignment to the Top Center of the page (H1) and Your name below it (H3) make sure to style the page, and <a href="https://www.w3schools.com/css/css_align.asp">center SVG using a div</a> of the page as well (10/100 Points)</li>
