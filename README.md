@@ -28,4 +28,6 @@
 </li>
 </ol>
 
+* The extra file is deleted from the data folder. The only dataset you need is the topojson file.
+
 
