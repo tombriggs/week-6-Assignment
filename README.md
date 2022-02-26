@@ -17,7 +17,7 @@
 <ol style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; color: #24292f; font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; background-color: #ffffff; margin-bottom: 0px;">
 <ol>
   <li style="box-sizing: border-box; margin-top: 0.25em;">&nbsp;Population in 1980 (10 points)</li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">Population change between each available year (e.g 1980 and 1990) in each town (10/100 Points)</li>
+<li style="box-sizing: border-box; margin-top: 0.25em;">Population change between years 2010 and 2000 in each town (10/100 Points)</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Color by <strong>County (not by town)</strong> (the FIPS number of the towns from the same county is the same)( 30/100 points) - you can use any of the fields (e.g. POP2010 or POP2000), just mention that in the title.</li>
   </ol>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Add interaction (mouse enter/mouse leave) change color for each county--not the towns--. (20/100 points)</li>
